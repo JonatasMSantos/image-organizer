@@ -1,0 +1,1 @@
+Organizador de fotos por data utilizando metadata da imagem. Escrito em Python.
